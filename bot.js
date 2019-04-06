@@ -12,4 +12,5 @@ client.user.setGame(`Im The King`,"http://twitch.tv/King")
 client.user.setStatus("dnd")
 });
 
+
 client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
